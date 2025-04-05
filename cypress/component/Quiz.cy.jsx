@@ -13,9 +13,9 @@ const mockQuestions = [
     }
 ];
 
+// Creating mock API
 describe('<Quiz/>', () => {
     beforeEach(() => {
-        // Intercept the API call and return mock data
         cy.intercept('GET', '/api/questions/random', {
             statusCode: 200,
             body: mockQuestions,
