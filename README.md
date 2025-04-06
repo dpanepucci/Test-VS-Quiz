@@ -3,7 +3,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-![Link to Walkthrough]
+Link to Walkthrough: https://app.screencastify.com/v3/watch/aCCRKGIDZi3eFfUD4N2y
 
 ## Table of Contents
 - [Description](#description)
